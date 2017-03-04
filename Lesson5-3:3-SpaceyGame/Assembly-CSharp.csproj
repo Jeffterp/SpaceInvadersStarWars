@@ -47,8 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Enemy.cs" />
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\Gun.cs" />
      <Compile Include="Assets\HealthManager.cs" />
+     <Compile Include="Assets\MainMenuManager.cs" />
      <Compile Include="Assets\PlayerInput.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
